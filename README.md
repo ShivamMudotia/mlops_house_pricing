@@ -9,8 +9,24 @@
 3. [VSCodeIDE](https://code.visualstudio.com/)
 4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
-Create a new environment
+# Create a new environment
+python3 -m vent venv
 
-```
-conda create -p venv python==3.7 -y
-```
+# Install delendencies
+pip install -r requirements.txt
+
+# run flask app localy
+python3 app.py
+
+# Heroku
+Procfile is for Heroku platform
+
+# create docker image and push to dockerhub
+
+docker build -t mshivam21/pricing_prediction .
+docker login
+docker push mshivam21/pricing_prediction
+
+
+
+
