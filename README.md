@@ -1,7 +1,4 @@
 
-## Youtube
-https://www.youtube.com/watch?v=MJ1vWb1rGwM&list=PLZoTAELRMXVMdvxeSuliQZcRLu3WCYVim
-
 
 ### Boston House Pricing Prediction
 
